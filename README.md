@@ -1,50 +1,47 @@
-# Portfólio Pessoal - Bruna Luiza
+# 💻 Portfólio Pessoal | Bruna Luiza
 
-<div align="center"> 
-	<img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5" alt="HTML Badge" /> 
-	<img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge" /> 
-	<img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" /> 
-</div>
+Este repositório centraliza minha vitrine profissional, onde apresento minha trajetória como **Desenvolvedora Full Stack** e minhas competências em **Análise de Sistemas e Sucesso do Cliente**. O projeto foi construído focado em performance, design responsivo e clareza na comunicação.
 
-Este é o repositório do meu site portfólio pessoal, desenvolvido com HTML, CSS e JavaScript. O site inclui informações sobre mim, meus projetos, habilidades e formas de contato.
+---
 
-## Tecnologias Utilizadas
+### 🌐 Acesse o Site
+O portfólio está disponível publicamente através do GitHub Pages:
+👉 **brunaluiza18.github.io/Portfolio/**
 
-- **HTML**: Estrutura de conteúdo e marcação do site.
-- **CSS**: Estilização e layout das páginas.
-- **JavaScript**: Funcionalidades e interatividade do site.
+---
 
-## Executando Localmente
+### 🚀 Diferenciais Técnicos e de Negócio
+Diferente de um site comum, este portfólio foi estruturado para demonstrar:
+- **Interface Intuitiva (UX):** Facilidade de navegação para usuários técnicos e não-técnicos.
+- **Resolução de Problemas:** Seção dedicada a projetos que resolvem dores reais de negócio.
+- **Comunicação:** Documentação organizada, essencial para funções de **Suporte e Customer Success**.
 
-Para visualizar o projeto localmente, siga as instruções abaixo:
+### 🛠️ Tecnologias Utilizadas
+- **HTML5:** Estrutura semântica focada em SEO e acessibilidade.
+- **CSS3:** Estilização moderna com Layout Responsivo (Mobile First).
+- **JavaScript:** Implementação de interatividade e dinamismo.
 
-### Pré-requisitos
+---
 
-- [Visual Studio Code](https://code.visualstudio.com/) (ou outro editor de sua preferência)
-- Extensão **Live Server** no VSCode
+### ⚙️ Executando Localmente
 
-### Passos
+Se desejar testar o código em sua máquina:
 
-1. Clone o repositório:
-	```bash
-   git clone https://github.com/brunaluiza18/Portfólio.git
-```
-2. Abra o projeto no Visual Studio Code:
+1. **Clone o repositório:**
    ```bash
-   code seu-repositorio
-```
-3. No VSCode, abra um arquivo HTML do projeto (ex: `index.html`).
-4. Clique com o botão direito no editor e selecione **"Open with Live Server"**.  
-   - Alternativamente, você pode iniciar o **Live Server** através da barra de status do VSCode.
+   git clone [https://github.com/brunaluiza18/Portfolio.git](https://github.com/brunaluiza18/Portfolio.git)
+Abra no VS Code:
 
-Isso abrirá o site em seu navegador padrão, e você poderá visualizar e testar as alterações em tempo real.
+Bash
+code Portfolio
+Inicie o Live Server: Abra o arquivo index.html e selecione "Open with Live Server".
 
-## Deploy
+🤝 Contato e Oportunidades
 
-Este site está disponível publicamente através do **GitHub Pages**. Você pode acessar a versão online pelo link abaixo:
+Estou aberta a oportunidades em Desenvolvimento, Suporte Técnico e Customer Success. Se você busca uma profissional que une técnica com excelente comunicação, vamos conversar!
 
-- [Portfólio Pessoal](https://github.com/brunaluiza18/Portfólio.git)
+LinkedIn: https://www.linkedin.com/in/goncalvesbrunal/
 
-## Contribuindo
+E-mail: brunaluiza.contat@gmail.com
 
-Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir um **pull request**.
+“Documentar é tão importante quanto codificar.”
